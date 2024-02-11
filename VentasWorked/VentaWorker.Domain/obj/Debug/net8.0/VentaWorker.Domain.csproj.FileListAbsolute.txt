@@ -1,0 +1,13 @@
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Venta-Aplicacion-Worker\VentaWorker.Domain\bin\Debug\net8.0\VentaWorker.Domain.deps.json
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Venta-Aplicacion-Worker\VentaWorker.Domain\bin\Debug\net8.0\VentaWorker.Domain.dll
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Venta-Aplicacion-Worker\VentaWorker.Domain\bin\Debug\net8.0\VentaWorker.Domain.pdb
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Venta-Aplicacion-Worker\VentaWorker.Domain\obj\Debug\net8.0\VentaWorker.Domain.csproj.AssemblyReference.cache
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Venta-Aplicacion-Worker\VentaWorker.Domain\obj\Debug\net8.0\VentaWorker.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Venta-Aplicacion-Worker\VentaWorker.Domain\obj\Debug\net8.0\VentaWorker.Domain.AssemblyInfoInputs.cache
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Venta-Aplicacion-Worker\VentaWorker.Domain\obj\Debug\net8.0\VentaWorker.Domain.AssemblyInfo.cs
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Venta-Aplicacion-Worker\VentaWorker.Domain\obj\Debug\net8.0\VentaWorker.Domain.csproj.CoreCompileInputs.cache
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Venta-Aplicacion-Worker\VentaWorker.Domain\obj\Debug\net8.0\VentaWorker.Domain.sourcelink.json
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Venta-Aplicacion-Worker\VentaWorker.Domain\obj\Debug\net8.0\VentaWorker.Domain.dll
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Venta-Aplicacion-Worker\VentaWorker.Domain\obj\Debug\net8.0\refint\VentaWorker.Domain.dll
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Venta-Aplicacion-Worker\VentaWorker.Domain\obj\Debug\net8.0\VentaWorker.Domain.pdb
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Venta-Aplicacion-Worker\VentaWorker.Domain\obj\Debug\net8.0\ref\VentaWorker.Domain.dll

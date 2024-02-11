@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kGxdhiRmvbPigkCGgf2OOaQWBR/4YA20wyEY4M9MAEZDVPPtRMSxWpC0jGASOpxmWK6M+OwTDlJKDwHfO+846g==",
+  "success": true,
+  "projectFilePath": "C:\\UnidadDocumentos\\jose\\CURSONETDIC2023\\Venta\\Venta-Aplicacion-Worker\\VentaWorker.CrossCutting\\VentaWorker.CrossCutting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jlmil\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
+    "C:\\Users\\jlmil\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\jlmil\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

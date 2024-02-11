@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "oRk3jq0wKIdijTBbwTL3pEy6ypUu3J+sszPTymlqA8A=",
+  "Source": "Venta.Worker",
+  "BasePath": "_content/Venta.Worker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

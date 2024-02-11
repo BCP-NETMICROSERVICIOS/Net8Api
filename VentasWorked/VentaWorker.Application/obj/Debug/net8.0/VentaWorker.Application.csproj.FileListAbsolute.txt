@@ -1,0 +1,16 @@
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Venta-Aplicacion-Worker\VentaWorker.Application\bin\Debug\net8.0\VentaWorker.Application.deps.json
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Venta-Aplicacion-Worker\VentaWorker.Application\bin\Debug\net8.0\VentaWorker.Application.dll
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Venta-Aplicacion-Worker\VentaWorker.Application\bin\Debug\net8.0\VentaWorker.Application.pdb
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Venta-Aplicacion-Worker\VentaWorker.Application\bin\Debug\net8.0\VentaWorker.Domain.dll
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Venta-Aplicacion-Worker\VentaWorker.Application\bin\Debug\net8.0\VentaWorker.Domain.pdb
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Venta-Aplicacion-Worker\VentaWorker.Application\obj\Debug\net8.0\VentaWorker.Application.csproj.AssemblyReference.cache
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Venta-Aplicacion-Worker\VentaWorker.Application\obj\Debug\net8.0\VentaWorker.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Venta-Aplicacion-Worker\VentaWorker.Application\obj\Debug\net8.0\VentaWorker.Application.AssemblyInfoInputs.cache
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Venta-Aplicacion-Worker\VentaWorker.Application\obj\Debug\net8.0\VentaWorker.Application.AssemblyInfo.cs
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Venta-Aplicacion-Worker\VentaWorker.Application\obj\Debug\net8.0\VentaWorker.Application.csproj.CoreCompileInputs.cache
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Venta-Aplicacion-Worker\VentaWorker.Application\obj\Debug\net8.0\VentaWorker.Application.sourcelink.json
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Venta-Aplicacion-Worker\VentaWorker.Application\obj\Debug\net8.0\VentaWorker.Application.csproj.CopyComplete
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Venta-Aplicacion-Worker\VentaWorker.Application\obj\Debug\net8.0\VentaWorker.Application.dll
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Venta-Aplicacion-Worker\VentaWorker.Application\obj\Debug\net8.0\refint\VentaWorker.Application.dll
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Venta-Aplicacion-Worker\VentaWorker.Application\obj\Debug\net8.0\VentaWorker.Application.pdb
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Venta-Aplicacion-Worker\VentaWorker.Application\obj\Debug\net8.0\ref\VentaWorker.Application.dll
