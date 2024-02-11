@@ -1,0 +1,29 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: venta-aplicacion
+spec:
+  strategy:
+    type: Recreate
+  selector:
+    matchLabels:
+      app: venta-aplicacion
+  replicas: 2 
+  template: 
+    metadata:
+      labels:
+        app: venta-aplicacion
+    spec:
+      containers:      
+        - name: venta-aplicacion
+          image: luchin2018/venta-aplicacion:2.0
+          imagePullPolicy: Never
+          resources:
+            limits:
+              memory: 70Mi
+              cpu: 100m
+            requests:
+              memory: 50Mi
+              cpu: 50m
+          ports:
+            - containerPort: 80

@@ -1,0 +1,6 @@
+kind: Namespace
+apiVersion: v1
+metadata:
+  name: venta-aplicacion
+  labels:
+    name: venta-aplicacion
