@@ -14,13 +14,15 @@ namespace Venta.Domain.Models
 
         public string Apellidos { get; set; }
 
-        public string DireccionEntrega { get; set; }
+        //public string DireccionEntrega { get; set; }
 
-        public string Ciudad { get; set; }
+        //public string Ciudad { get; set; }
 
         public virtual IEnumerable<Venta> Ventas { get; set; }
 
-       // public virtual IEnumerable<Pago> Pagos { get; set; }
+        //public virtual IEnumerable<PagoDetalle> PagoDetalles { get; set; }
+
+       // public virtual IEnumerable<Entrega> Entregas { get; set; }
 
 
 

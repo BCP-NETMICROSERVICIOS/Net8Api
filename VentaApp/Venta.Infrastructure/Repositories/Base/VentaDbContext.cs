@@ -28,7 +28,7 @@ namespace Venta.Infrastructure.Repositories.Base
         public virtual DbSet<Cliente> Clientes { get; set; }
 
 
-        public virtual DbSet<Pago> Pagos { get; set; }   // Tabla de pagos
+        public virtual DbSet<PagoDetalle> PagosDetalle { get; set; }   // Tabla de pagos
 
        
 
@@ -41,6 +41,8 @@ namespace Venta.Infrastructure.Repositories.Base
 
             #region Configuraando las entidades en archivos de tipos separados
             modelBuilder.ApplyConfigurationsFromAssembly(typeof(VentaDbContext).Assembly);
+            modelBuilder.Ignore<PagoDetalle>();
+            modelBuilder.Ignore<Entrega>();
             #endregion
 
             #region Configuracion de las entidades en el mismo ModelCreating

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z2LMUwDpDBedWDMBNH8mW+/wrAtkwTr3fzPhC8VcqSz7+cLlMGs9ZYkrVeWhWmntUar0kA7FWikS3Cm+W7r8OA==",
+  "success": true,
+  "projectFilePath": "C:\\UnidadDocumentos\\jose\\CURSONETDIC2023\\Venta\\Stock\\Stocks-JTG\\Stock.CrossCutting\\Stock.CrossCutting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jlmil\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
+    "C:\\Users\\jlmil\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\jlmil\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\jlmil\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -10,17 +10,20 @@ using Venta.Domain.Services.WebServices;
 
 namespace Venta.Infrastructure.Services.WebServices
 {
-    public class StockService : IStocksService
+    public class StockService : IStocksService  
     {
         private readonly HttpClient _httpClientStocks;
+
+     //   private readonly HttpClient _httpClientStock;
         public StockService(HttpClient httpClientStocks) {
             _httpClientStocks = httpClientStocks;
         }
 
+       
+
         public async Task<bool> ActualizarStock(int idProducto, int cantidad)
         {
-            //try
-           // {
+           
                 using var request = new HttpRequestMessage(HttpMethod.Put, "api/productos/reservar");
 
                 var entidadSerializada = JsonSerializer.Serialize(new { IdProducto = idProducto, Cantidad = cantidad });
@@ -29,12 +32,7 @@ namespace Venta.Infrastructure.Services.WebServices
                 var response = await _httpClientStocks.SendAsync(request);
 
                 return response.IsSuccessStatusCode;
-            }
-           // catch(Exception ex)
-           // {
-           //     return false;
-           // }
-    
-      //  }
+         }
+           
     }
 }

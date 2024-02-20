@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using EntregarWorker.Application.CasosUso.AdministrarProductos.ActualizarProductos;
+ 
 
 namespace EntregarWorker.Application.CasosUso.AdministrarEntregas.RegistrarEntrega
 {
@@ -12,9 +12,9 @@ namespace EntregarWorker.Application.CasosUso.AdministrarEntregas.RegistrarEntre
     {
         public RegistrarPedidoValidator()
         {
-            RuleFor(item => item.Cliente).NotEmpty().WithMessage("Debe especificar un Cliente");
-            RuleFor(item => item.Ciudad).NotEmpty().WithMessage("Debe especificar la ciudad de entrega");
-            RuleFor(item => item.DireccionEntrega).NotEmpty().WithMessage("Debe especificar una Direccion exacta");
+            RuleFor(item => item.IdVenta).NotEmpty().WithMessage("Debe especificar el IdVenta");
+         //   RuleFor(item => item.Ciudad).NotEmpty().WithMessage("Debe especificar la ciudad de entrega");
+        //    RuleFor(item => item.DireccionEntrega).NotEmpty().WithMessage("Debe especificar una Direccion exacta");
         }
     }
 }

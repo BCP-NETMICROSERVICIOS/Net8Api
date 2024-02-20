@@ -8,6 +8,6 @@ namespace Venta.Domain.Repositories
 {
     public interface IPagoRepository: IRepository
     {
-        Task<bool> Adicionar(Models.Pago pago);
+        Task<bool> Adicionar(Models.PagoDetalle pago);
     }
 }

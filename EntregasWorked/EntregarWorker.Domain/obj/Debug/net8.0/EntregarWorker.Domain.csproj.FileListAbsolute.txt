@@ -1,0 +1,12 @@
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\EntregasWorked\EntregarWorker.Domain\bin\Debug\net8.0\EntregarWorker.Domain.deps.json
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\EntregasWorked\EntregarWorker.Domain\bin\Debug\net8.0\EntregarWorker.Domain.dll
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\EntregasWorked\EntregarWorker.Domain\bin\Debug\net8.0\EntregarWorker.Domain.pdb
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\EntregasWorked\EntregarWorker.Domain\obj\Debug\net8.0\EntregarWorker.Domain.csproj.AssemblyReference.cache
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\EntregasWorked\EntregarWorker.Domain\obj\Debug\net8.0\EntregarWorker.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\EntregasWorked\EntregarWorker.Domain\obj\Debug\net8.0\EntregarWorker.Domain.AssemblyInfoInputs.cache
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\EntregasWorked\EntregarWorker.Domain\obj\Debug\net8.0\EntregarWorker.Domain.AssemblyInfo.cs
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\EntregasWorked\EntregarWorker.Domain\obj\Debug\net8.0\EntregarWorker.Domain.csproj.CoreCompileInputs.cache
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\EntregasWorked\EntregarWorker.Domain\obj\Debug\net8.0\EntregarWorker.Domain.dll
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\EntregasWorked\EntregarWorker.Domain\obj\Debug\net8.0\refint\EntregarWorker.Domain.dll
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\EntregasWorked\EntregarWorker.Domain\obj\Debug\net8.0\EntregarWorker.Domain.pdb
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\EntregasWorked\EntregarWorker.Domain\obj\Debug\net8.0\ref\EntregarWorker.Domain.dll

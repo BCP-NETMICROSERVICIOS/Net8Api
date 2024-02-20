@@ -1,0 +1,17 @@
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\EntregasWorked\EntregarWorker.Infrastructure\bin\Debug\net8.0\EntregarWorker.Infrastructure.deps.json
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\EntregasWorked\EntregarWorker.Infrastructure\bin\Debug\net8.0\EntregarWorker.Infrastructure.dll
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\EntregasWorked\EntregarWorker.Infrastructure\bin\Debug\net8.0\EntregarWorker.Infrastructure.pdb
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\EntregasWorked\EntregarWorker.Infrastructure\bin\Debug\net8.0\EntregarWorker.CrossCutting.dll
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\EntregasWorked\EntregarWorker.Infrastructure\bin\Debug\net8.0\EntregarWorker.Domain.dll
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\EntregasWorked\EntregarWorker.Infrastructure\bin\Debug\net8.0\EntregarWorker.CrossCutting.pdb
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\EntregasWorked\EntregarWorker.Infrastructure\bin\Debug\net8.0\EntregarWorker.Domain.pdb
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\EntregasWorked\EntregarWorker.Infrastructure\obj\Debug\net8.0\EntregarWorker.Infrastructure.csproj.AssemblyReference.cache
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\EntregasWorked\EntregarWorker.Infrastructure\obj\Debug\net8.0\EntregarWorker.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\EntregasWorked\EntregarWorker.Infrastructure\obj\Debug\net8.0\EntregarWorker.Infrastructure.AssemblyInfoInputs.cache
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\EntregasWorked\EntregarWorker.Infrastructure\obj\Debug\net8.0\EntregarWorker.Infrastructure.AssemblyInfo.cs
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\EntregasWorked\EntregarWorker.Infrastructure\obj\Debug\net8.0\EntregarWorker.Infrastructure.csproj.CoreCompileInputs.cache
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\EntregasWorked\EntregarWorker.Infrastructure\obj\Debug\net8.0\EntregarWorker.Infrastructure.csproj.CopyComplete
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\EntregasWorked\EntregarWorker.Infrastructure\obj\Debug\net8.0\EntregarWorker.Infrastructure.dll
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\EntregasWorked\EntregarWorker.Infrastructure\obj\Debug\net8.0\refint\EntregarWorker.Infrastructure.dll
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\EntregasWorked\EntregarWorker.Infrastructure\obj\Debug\net8.0\EntregarWorker.Infrastructure.pdb
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\EntregasWorked\EntregarWorker.Infrastructure\obj\Debug\net8.0\ref\EntregarWorker.Infrastructure.dll

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+
 using Microsoft.Extensions.Configuration;
 
 namespace EntregarWorker.CrossCutting.Configs
@@ -15,16 +16,16 @@ namespace EntregarWorker.CrossCutting.Configs
             _configInfo = configInfo;
         }
 
-        
-        public string ConexionDBStocks
-        {
-            get
-            {
-                return _configInfo["dbStocks-cnx"];
 
-            }
-            private set { }
-        }
+        ////public string ConexionDBStocks
+        ////{
+        ////    get
+        ////    {
+        ////        return _configInfo["dbStocks-cnx"];
+
+        ////    }
+        ////    private set { }
+        ////}
         public string NombreDBStocks
         {
             get

@@ -1,23 +1,17 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
-using System;
-using System.Collections.Generic;
-using System.Linq;
+ 
 using System.Reflection;
-using System.Runtime.CompilerServices;
-using System.Text;
-using System.Threading.Tasks;
+ 
 using EntregarWorker.Domain.Repositories;
 
 using MongoDB.Driver;
- 
 using Confluent.Kafka;
 using EntregarWorker.Domain.Service.Events;
 using EntregarWorker.Infrastructure.Services.Events;
 using System.Net;
  
 using Microsoft.Extensions.Configuration;
-using System.Data.SqlTypes;
-using Polly.Extensions.Http;
+ using Polly.Extensions.Http;
 using Polly;
 using EntregarWorker.CrossCutting.Configs;
 
@@ -31,38 +25,38 @@ namespace EntregarWorker.Infrastructure
 
             )
         {
+            var appConfiguration = new AppConfiguration(configInfo);
 
-            services.AddDataBaseFactories(configInfo);
-            services.AddDataBaseFactoriesPagos(configInfo);
+            services.AddDataBaseFactories(appConfiguration.ConexionDBPagos);
+
+          //  services.AddDataBaseFactories(configInfo);
             services.AddRepositories(Assembly.GetExecutingAssembly());
-           // services.AddRepositories();
-            services.AddProducer(configInfo);
+            services.AddProducer(appConfiguration.UrlBaseServicioKafka);
             services.AddEventServices();
-            services.AddConsumer(configInfo);
+            services.AddConsumer(appConfiguration.UrlBaseServicioKafka);
         } 
 
-        private static void AddDataBaseFactories(this IServiceCollection services, IConfiguration configInfo)
+        //private static void AddDataBaseFactories(this IServiceCollection services, IConfiguration configInfo)
+        //{
+        //    var appConfiguration = new AppConfiguration(configInfo);
+        //    services.AddSingleton(mongoDatabase =>
+        //    {
+        //        var mongoClient = new MongoClient(appConfiguration.ConexionDBStocks);
+        //        return mongoClient.GetDatabase(appConfiguration.NombreDBStocks);
+        //        //var mongoClient = new MongoClient(connectionString);
+        //        //return mongoClient.GetDatabase("db-productos-stocks");
+        //    });
+
+        //}
+
+        private static void AddDataBaseFactories(this IServiceCollection services, string connectionString)
         {
-            var appConfiguration = new AppConfiguration(configInfo);
+           // var appConfiguration = new AppConfiguration(configInfo);
             services.AddSingleton(mongoDatabase =>
             {
-                var mongoClient = new MongoClient(appConfiguration.ConexionDBStocks);
-                return mongoClient.GetDatabase(appConfiguration.NombreDBStocks);
-                //var mongoClient = new MongoClient(connectionString);
-                //return mongoClient.GetDatabase("db-productos-stocks");
-            });
-
-        }
-
-        private static void AddDataBaseFactoriesPagos(this IServiceCollection services, IConfiguration configInfo)
-        {
-            var appConfiguration = new AppConfiguration(configInfo);
-            services.AddSingleton(mongoDatabase =>
-            {
-                var mongoClient = new MongoClient(appConfiguration.ConexionDBPagos);
-                return mongoClient.GetDatabase(appConfiguration.NombreDBPagos);
-                //var mongoClient = new MongoClient(connectionString);
-                //return mongoClient.GetDatabase("db-productos-stocks");
+                var mongoClient = new MongoClient(connectionString);
+                return mongoClient.GetDatabase("db-pagos-ventas");
+            
             });
 
         }
@@ -119,13 +113,13 @@ namespace EntregarWorker.Infrastructure
             }
         }
 
-        private static IServiceCollection AddProducer(this IServiceCollection services, IConfiguration configInfo)
+        private static IServiceCollection AddProducer(this IServiceCollection services, string connectionString)
         {
-            var appConfiguration = new AppConfiguration(configInfo);
+           // var appConfiguration = new AppConfiguration(configInfo);
             var config = new ProducerConfig
             {
                 Acks = Acks.Leader,
-                BootstrapServers = appConfiguration.UrlBaseServicioKafka,
+                BootstrapServers = connectionString,
                 //BootstrapServers = "host.docker.internal:29092",
                 //BootstrapServers = "127.0.0.1:9092", 
                 ClientId = Dns.GetHostName(),
@@ -135,12 +129,12 @@ namespace EntregarWorker.Infrastructure
             return services;
         }
 
-        private static IServiceCollection AddConsumer(this IServiceCollection services, IConfiguration configInfo)
+        private static IServiceCollection AddConsumer(this IServiceCollection services, string connectionString)
         {
-            var appConfiguration = new AppConfiguration(configInfo);
+           // var appConfiguration = new AppConfiguration(configInfo);
             var config = new ConsumerConfig
             {
-                BootstrapServers = appConfiguration.UrlBaseServicioKafka,
+                BootstrapServers = connectionString,
                // GroupId = appConfiguration.GrupoIdString,
                 // BootstrapServers = "127.0.0.1:9092",
                 GroupId = "venta-actualizar-stocks",

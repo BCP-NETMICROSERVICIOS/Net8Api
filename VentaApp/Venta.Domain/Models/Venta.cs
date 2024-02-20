@@ -10,6 +10,7 @@ namespace Venta.Domain.Models
     {
         public int IdVenta { get; set; }
 
+       public int IdPago { get; set; }
         public int IdCliente { get; set; }
 
         public DateTime Fecha
@@ -30,13 +31,22 @@ namespace Venta.Domain.Models
             private set { }
         }
 
+
+        public string DireccionEntrega { get; set; }
+
+        public string Ciudad { get; set; }
+
         public virtual Cliente Cliente { get; set; }
 
         public virtual IEnumerable<VentaDetalle> Detalle { get; set; }
 
-        //public virtual IEnumerable<PagoDetalle> PagoDetalle { get; set; }
 
-        //  public virtual IEnumerable<Pago> Pagos { get; set; }
+        public virtual IEnumerable<PagoDetalle> PagoDetalles { get; set; }
+
+
+       public virtual IEnumerable<Entrega> Entrega { get; set; }
+
+      
 
     }
 }

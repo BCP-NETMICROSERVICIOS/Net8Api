@@ -11,30 +11,23 @@ namespace EntregarWorker.Application.CasosUso.AdministrarEntregas.RegistrarEntre
 {
     public class RegistrarPedidoRequest : IRequest<IResult>
     {
-       
-            public ObjectId Id { get; set; }
-
-
-            public int IdPago { get; set; }
-
+ 
+            public object Id { get; set; }
             public int IdVenta { get; set; }
+            public string NombreCliente { get; set; }
+            public string Direccion { get; set; }
+            public string Ciudad { get; set; }
+            public virtual IEnumerable<EntregaDetalleRequest> Detalle { get; set; }
+        }
 
-            public int IdProducto { get; set; }
-
-            public DateTime Fecha { get; set; } = DateTime.Now;
-
-            public string Cliente { get; set; }
-
+        public class EntregaDetalleRequest
+        {
+            public int IdEntregaDetalle { get; set; }
             public string Producto { get; set; }
             public int Cantidad { get; set; }
-            public string DireccionEntrega { get; set; }
-
-
-            public string Ciudad { get; set; }
+        }
 
 
 
 
-         
     }
-}

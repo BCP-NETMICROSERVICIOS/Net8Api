@@ -1,0 +1,13 @@
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Venta-Aplicacion-Worker\VentaWorker.CrossCutting\bin\Debug\net8.0\VentaWorker.CrossCutting.deps.json
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Venta-Aplicacion-Worker\VentaWorker.CrossCutting\bin\Debug\net8.0\VentaWorker.CrossCutting.dll
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Venta-Aplicacion-Worker\VentaWorker.CrossCutting\bin\Debug\net8.0\VentaWorker.CrossCutting.pdb
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Venta-Aplicacion-Worker\VentaWorker.CrossCutting\obj\Debug\net8.0\VentaWorker.CrossCutting.csproj.AssemblyReference.cache
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Venta-Aplicacion-Worker\VentaWorker.CrossCutting\obj\Debug\net8.0\VentaWorker.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Venta-Aplicacion-Worker\VentaWorker.CrossCutting\obj\Debug\net8.0\VentaWorker.CrossCutting.AssemblyInfoInputs.cache
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Venta-Aplicacion-Worker\VentaWorker.CrossCutting\obj\Debug\net8.0\VentaWorker.CrossCutting.AssemblyInfo.cs
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Venta-Aplicacion-Worker\VentaWorker.CrossCutting\obj\Debug\net8.0\VentaWorker.CrossCutting.csproj.CoreCompileInputs.cache
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Venta-Aplicacion-Worker\VentaWorker.CrossCutting\obj\Debug\net8.0\VentaWorker.CrossCutting.sourcelink.json
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Venta-Aplicacion-Worker\VentaWorker.CrossCutting\obj\Debug\net8.0\VentaWorker.CrossCutting.dll
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Venta-Aplicacion-Worker\VentaWorker.CrossCutting\obj\Debug\net8.0\refint\VentaWorker.CrossCutting.dll
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Venta-Aplicacion-Worker\VentaWorker.CrossCutting\obj\Debug\net8.0\VentaWorker.CrossCutting.pdb
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Venta-Aplicacion-Worker\VentaWorker.CrossCutting\obj\Debug\net8.0\ref\VentaWorker.CrossCutting.dll

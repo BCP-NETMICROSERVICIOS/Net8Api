@@ -1,23 +1,20 @@
 ﻿using AutoMapper;
 using EntregarWorker.Application.Common;
 using EntregarWorker.Domain.Models;
-using EntregarWorker.Domain.Service.WebServices;
+using EntregarWorker.Domain.Repositories;
 using MediatR;
 
 
 namespace EntregarWorker.Application.CasosUso.AdministrarEntregas.RegistrarEntrega
 {
-    /* 
-        Pendiente implementar interfaz con ventas, pagos
-
-         */
+    
     public class RegistrarPedidoHandler :
        IRequestHandler<RegistrarPedidoRequest, IResult>
     {
-        private readonly IPagoService _pagoService;
+        private readonly IPedidoRepository _pagoService;
         private readonly IMapper _mapper;
 
-        public RegistrarPedidoHandler(IPagoService pagoService, IMapper mapper)
+        public RegistrarPedidoHandler(IPedidoRepository pagoService, IMapper mapper)
         {
             _pagoService = pagoService;
             _mapper = mapper;
@@ -33,7 +30,7 @@ namespace EntregarWorker.Application.CasosUso.AdministrarEntregas.RegistrarEntre
             try
             {
                 var entregas = _mapper.Map<Entrega>(request);
-                await _pagoService.EntregaPedido(entregas);
+                await _pagoService.Registrar(entregas);
 
                 if (result)
                 {

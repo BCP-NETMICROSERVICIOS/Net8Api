@@ -9,6 +9,7 @@ namespace Venta.Domain.Services.WebServices
 {
     public  interface IPagosService
     {
-        Task<bool> ActualizarPagos(int idpago, string fecha, decimal monto, int formapago, string numerotarjeta, string fechavencimiento, string cvv, string nombretitular, int numerocuotas);
+        Task<bool> ActualizarPagos(int idpago, int idventa, string fecha, decimal monto, int formapago, string numerotarjeta, string fechavencimiento, string cvv, string nombretitular, int numerocuotas,
+                                    int identrega, string direccionentrega, string ciudad);
     }
 }

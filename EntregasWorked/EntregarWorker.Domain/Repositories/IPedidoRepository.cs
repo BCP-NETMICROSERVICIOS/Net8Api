@@ -9,15 +9,9 @@ namespace EntregarWorker.Domain.Repositories
 {
     public  interface IPedidoRepository: IRepository
     {
-        Task<bool> Adicionar(Producto entity);
-
-        Task<bool> Modificar(Producto entity);
-
-        Task<bool> Eliminar(Producto entity);
-
-        Task<Producto> Consultar(int id);
-
-        Task<IEnumerable<Producto>> Consultar(string nombre);
+       
+            Task<bool> Registrar(Entrega entity);
+       
 
 
     }

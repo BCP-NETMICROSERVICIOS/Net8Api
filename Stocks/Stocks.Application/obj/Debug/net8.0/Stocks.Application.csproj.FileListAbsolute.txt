@@ -1,0 +1,16 @@
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Stock\Stocks-JTG\Stocks.Application\bin\Debug\net8.0\Stocks.Application.deps.json
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Stock\Stocks-JTG\Stocks.Application\bin\Debug\net8.0\Stocks.Application.dll
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Stock\Stocks-JTG\Stocks.Application\bin\Debug\net8.0\Stocks.Application.pdb
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Stock\Stocks-JTG\Stocks.Application\bin\Debug\net8.0\Stocks.Domain.dll
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Stock\Stocks-JTG\Stocks.Application\bin\Debug\net8.0\Stocks.Domain.pdb
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Stock\Stocks-JTG\Stocks.Application\obj\Debug\net8.0\Stocks.Application.csproj.AssemblyReference.cache
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Stock\Stocks-JTG\Stocks.Application\obj\Debug\net8.0\Stocks.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Stock\Stocks-JTG\Stocks.Application\obj\Debug\net8.0\Stocks.Application.AssemblyInfoInputs.cache
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Stock\Stocks-JTG\Stocks.Application\obj\Debug\net8.0\Stocks.Application.AssemblyInfo.cs
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Stock\Stocks-JTG\Stocks.Application\obj\Debug\net8.0\Stocks.Application.csproj.CoreCompileInputs.cache
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Stock\Stocks-JTG\Stocks.Application\obj\Debug\net8.0\Stocks.Application.sourcelink.json
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Stock\Stocks-JTG\Stocks.Application\obj\Debug\net8.0\Stocks.Application.csproj.CopyComplete
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Stock\Stocks-JTG\Stocks.Application\obj\Debug\net8.0\Stocks.Application.dll
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Stock\Stocks-JTG\Stocks.Application\obj\Debug\net8.0\refint\Stocks.Application.dll
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Stock\Stocks-JTG\Stocks.Application\obj\Debug\net8.0\Stocks.Application.pdb
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Stock\Stocks-JTG\Stocks.Application\obj\Debug\net8.0\ref\Stocks.Application.dll

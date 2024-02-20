@@ -1,0 +1,13 @@
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Stock\Stocks-JTG\Stocks.Domain\bin\Debug\net8.0\Stocks.Domain.deps.json
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Stock\Stocks-JTG\Stocks.Domain\bin\Debug\net8.0\Stocks.Domain.dll
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Stock\Stocks-JTG\Stocks.Domain\bin\Debug\net8.0\Stocks.Domain.pdb
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Stock\Stocks-JTG\Stocks.Domain\obj\Debug\net8.0\Stocks.Domain.csproj.AssemblyReference.cache
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Stock\Stocks-JTG\Stocks.Domain\obj\Debug\net8.0\Stocks.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Stock\Stocks-JTG\Stocks.Domain\obj\Debug\net8.0\Stocks.Domain.AssemblyInfoInputs.cache
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Stock\Stocks-JTG\Stocks.Domain\obj\Debug\net8.0\Stocks.Domain.AssemblyInfo.cs
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Stock\Stocks-JTG\Stocks.Domain\obj\Debug\net8.0\Stocks.Domain.csproj.CoreCompileInputs.cache
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Stock\Stocks-JTG\Stocks.Domain\obj\Debug\net8.0\Stocks.Domain.sourcelink.json
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Stock\Stocks-JTG\Stocks.Domain\obj\Debug\net8.0\Stocks.Domain.dll
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Stock\Stocks-JTG\Stocks.Domain\obj\Debug\net8.0\refint\Stocks.Domain.dll
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Stock\Stocks-JTG\Stocks.Domain\obj\Debug\net8.0\Stocks.Domain.pdb
+C:\UnidadDocumentos\jose\CURSONETDIC2023\Venta\Stock\Stocks-JTG\Stocks.Domain\obj\Debug\net8.0\ref\Stocks.Domain.dll

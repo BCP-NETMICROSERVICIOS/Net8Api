@@ -20,5 +20,8 @@ namespace Venta.Domain.Models
         public virtual Categoria Categoria { get; set; }
 
         public virtual IEnumerable<VentaDetalle> VentaDetalles { get; set; }
+
+
+
     }
 }

@@ -11,13 +11,18 @@ namespace Venta.Domain.Models
     {
 
 
-        
+        [Key]
         public int IdPago { get; set; }
-      
-        public string Fecha { get; set; }
+
+        public int IdVenta { get; set; }
+
+    
+     //   public string Fecha { get; set; }
         
-        public decimal Monto { get; set; }
+    //    public decimal Monto { get; set; }
+
         public int FormaPago { get; set; }
+
         public string NumeroTarjeta { get; set; }
 
         
@@ -30,7 +35,14 @@ namespace Venta.Domain.Models
         public int NumeroCuotas { get; set; }
 
 
-        //public virtual Venta Venta { get; set; }
+     //   public virtual Venta Ventas { get; set; }
+
+   //    public virtual IEnumerable<Entrega> Entregas { get; set; }
+
+      // public virtual IEnumerable<Venta> Ventas { get; set; }
+
+        public virtual Venta Venta { get; set; }
+
 
     }
 }

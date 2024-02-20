@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics.CodeAnalysis;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -27,9 +28,14 @@ namespace Venta.Domain.Models
 
         }
 
+    
+
+
         public virtual Producto Producto { get; set; }
 
         public virtual Venta Venta { get; set; }
+
+     //   public virtual PagoDetalle PagoDetalle { get; set; }
 
     }
 }
